@@ -1,0 +1,14 @@
+﻿Legenda
+-999 Valore mancante o invalido
+Legenda dei valori speciali
+Valore, Descrizione
+777,calma
+7777,calma
+888,variabile
+8888,variabile
+Nota: i gradi di Direzione del Vento sono riferiti al Nord
+
+Riepilogo estrazione
+Id_Stazione,Nome_Stazione,Id_Sensore,Nome_Sensore,Unita_Misura,Periodo_Dal,Periodo_Al,Operatore
+865,Cantù Asnago,8119,Livello Idrometrico,cm,2017/12/31 00:00,2018/12/31 00:00,Medio
+I dati sono estratti in ORA SOLARE (UTC + 1)
